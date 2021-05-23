@@ -13,7 +13,7 @@ app.use(express.static(path.join(__dirname, 'node_modules')))
 
 
 
-
+// Team Object
 const teamToIDs = {
     "lakers": "1610612747",
     "warriors": "1610612744",
